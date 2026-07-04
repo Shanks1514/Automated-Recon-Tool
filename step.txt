@@ -1,0 +1,12 @@
+run:
+
+source venv/bin/activate
+
+If you haven't created a virtual environment for this project:
+
+python -m venv venv
+source venv/bin/activate
+
+Then:
+
+pip install -r requirements.txt
