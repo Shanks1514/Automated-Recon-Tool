@@ -1,4 +1,5 @@
-# Automated-Recon-ToolA modular Python-based reconnaissance framework designed to automate information gathering during authorized penetration testing and security assessments. The tool streamlines reconnaissance by collecting network, DNS, HTTP, SSL/TLS, and web application information, while generating professional JSON and HTML reports.
+# Automated-Recon-Tool
+A modular Python-based reconnaissance framework designed to automate information gathering during authorized penetration testing and security assessments. The tool streamlines reconnaissance by collecting network, DNS, HTTP, SSL/TLS, and web application information, while generating professional JSON and HTML reports.
 
 > ⚠️ **Disclaimer:** This tool is intended for educational purposes and authorized security testing only. Always obtain proper permission before scanning any systems.
 
